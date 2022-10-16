@@ -5,10 +5,10 @@
 <h2>Technologies used :</h2>
 1.C#
 2.SignalR
-3.ASP .NET CORE 
-4.ASP .NET CORE MVC
-5.Entity Framework Core
-6.microsoft sql server
-7.javascript ,jquery
-8.Html ,CSS 
+3.ASP .NET CORE <br>
+4.ASP .NET CORE MVC  <br>
+5.Entity Framework Core <br>
+6.microsoft sql server <br>
+7.javascript ,jquery <br>
+8.Html ,CSS  <br>
 
